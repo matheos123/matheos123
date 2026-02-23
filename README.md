@@ -37,13 +37,3 @@ I specialize in React, Next.js, Expo (React Native), and Node.js, with hands-on 
 - Fintech, SaaS, or mobile-first platforms  
 
 ---
-
-## 🎯 Development Philosophy
-
-UI is not decoration => it’s logic made visible
-Prefer simple, predictable architecture
-Build for real users and real constraints
-Optimize for clarity, performance, and maintainability
----
-
-📫 **Open to collaboration and opportunities**
